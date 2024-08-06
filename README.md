@@ -22,7 +22,6 @@ Como candidato para nossa equipe de desenvolvimento, você está encarregado de 
 ### Integração OpenTelemetry:
 
 - Implementar rastreamento para operações-chave no processo de reserva.
-- Adicionar métricas personalizadas para monitorar aspectos importantes do sistema (por exemplo, número de reservas bem-sucedidas, taxas de ocupação, taxas de ocorrência de exceções).
 
 ### Registro de Logs:
 

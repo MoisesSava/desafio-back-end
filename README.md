@@ -32,4 +32,4 @@ Como candidato para nossa equipe de desenvolvimento, você está encarregado de 
 - Qualidade e organização do código
 - Criatividade no design dos casos de exceção
 - Eficácia do tratamento de exceções
-- Implementação adequada dos relatórios OpenTelemetry
+- Implementação adequada dos relatórios OpenTelemetry (somente a parte de alimentação, usar ferramenta pronta de terceiros para leitura e visualização)

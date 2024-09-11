@@ -29,7 +29,7 @@ Como candidato para nossa equipe de desenvolvimento, você está encarregado de 
 
 ## Critérios de Avaliação:
 
-- Qualidade e organização do código
+- Organização do código
 - Criatividade no design dos casos de exceção
 - Eficácia do tratamento de exceções
-- Implementação adequada dos relatórios OpenTelemetry (somente a parte de alimentação, usar ferramenta pronta de terceiros para leitura e visualização)
+- Implementação adequada dos relatórios OpenTelemetry (somente a parte de "alimentação"/"captura" dos diversos dados)
